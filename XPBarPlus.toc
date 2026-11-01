@@ -1,0 +1,9 @@
+## Interface: 11200
+## Title: |cff9966ffXP Bar|cffffffff Plus
+## Notes: A customizable experience and reputation bar. /xpb for options.
+## Author: Made with Claude
+## Version: 1.0.0
+## SavedVariables: XPBarPlusDB
+
+Core.lua
+Options.lua
